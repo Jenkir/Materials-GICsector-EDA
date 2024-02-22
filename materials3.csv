@@ -1,0 +1,9 @@
+unique_id,company_name,gicSector,gicSubIndustry,company_pulse,esg_beta,City,State,Country,zip,exchange,symbol,isin,cusip,securities_type,currency_code
+193281,China BlueChemical Ltd,Materials,Fertilizers & Agricultural Chemicals,0.0,, Beijing, China, 100029,, Pink,CBLUF,,,Common Stock,USD
+192130,China Daye Non-Ferrous Metals Mining Limited,Materials,Copper,0.0,, China Hong Kong City, Kowloon, Hong Kong,, Pink,CBLUY,,,Common Stock,USD
+244885,China Green Agriculture Inc,Materials,Fertilizers & Agricultural Chemicals,-0.406725,, Xi'an, China, 710065,, Pink,CBUMY,,16947K107,Common Stock,USD
+193361,China Hanking Holdings Limited,Materials,Steel,0.0,, Shenyang, China, 110016,,New York Stock Exchange,CGA,US16943W2044,16943W204,Common Stock,USD
+191905,China Hongqiao Group Limited,Materials,Aluminum,0.169675,, Zouping, China, 256200,, NASDAQ Exchnage,CHNR,VGG2110U1093,169406105,Common Stock,USD
+197846,"China Molybdenum Co., Ltd",Materials,Diversified Metals & Mining,0.073025,0.2526653947309769, Luoyang, China, 471500,, Pink,CMCLF,,,Common Stock,USD
+193607,China National Building Material Company Limited,Materials,Construction Materials,0.94945,, Tower 2, Beijing, China, 100036, Pink,CUGCF,,,Common Stock,USD
+242957,China Natural Resources Inc,Materials,Diversified Metals & Mining,0.7006055555555554,, Sheung Wan, Hong Kong,,, Pink,CUGCY,,16948A108,Common Stock,USD

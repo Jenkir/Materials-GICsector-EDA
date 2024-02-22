@@ -1,0 +1,33 @@
+unique_id,company_name,gicSector,gicSubIndustry,company_pulse,esg_beta,address,exchange,symbol,isin,cusip,securities_type,currency_code
+200221,Asia Cement Corporation,Materials,Construction Materials,0.17132166666666665,,"No. 207, Dunhua South Road, Taipei City, Taiwan, 106",New York Stock Exchange,AVNT,US05368V1061,NA,Common Stock,USD
+189839,Avery Dennison Corporation,Materials,Paper Packaging,0.31764444444444456,,"207 Goode Avenue, Glendale, CA, United States, 91203",New York Stock Exchange,AVY,US0536111091,053611109,Common Stock,USD
+245570,Avient Corp,Materials,Specialty Chemicals,0.6758222222222222,,"33587 Walker Road, Avon Lake, OH, United States, 44012",New York Stock Exchange,AXTA,BMG0750C1082,G0750C108,Common Stock,USD
+206711,Axalta Coating Systems Ltd,Materials,Specialty Chemicals,0.35406666666666664,-0.11668707350207945,"Two Commerce Square, Philadelphia, PA, United States, 19103",New York Stock Exchange,BAK,US1055321053,105532105,Common Stock,USD
+189990,BASF SE,Materials,Diversified Chemicals,0.27626170276774986,0.19849940888076237,"Carl-Bosch-Strasse 38, Ludwigshafen am Rhein, Germany, 67056",New York Stock Exchange,BALL,US0584981064,NA,Common Stock,USD
+193497,BBMG Corporation,Materials,Construction Materials,0.128,,"Global Trade Center No. 36, Beijing, China, 100013", OTC QX Exchange,BASFY,US0552625057,055262505,Common Stock,USD
+190602,BHP Group,Materials,Diversified Metals & Mining,0.13237217683607572,0.1965039071352485,"171 Collins Street, Melbourne, VIC, Australia, 3000",New York Stock Exchange,BBL,US05545E2090,05545E209,Common Stock,USD
+206604,Balchem Corporation,Materials,Specialty Chemicals,0.4165451724137934,,"52 Sunrise Park Road, New Hampton, NY, United States, 10958",New York Stock Exchange,BCC,US09739D1000,097383103,Common Stock,USD
+190817,Ball Corporation,Materials,Metal & Glass Containers,0.3539198461172339,0.06591624203577995,"10 Longs Peak Drive, Broomfield, CO, United States, 80021-2510", NASDAQ Exchnage,BCPC,US0576652004,057665200,Common Stock,USD
+191584,Barrick Gold Corporation,Materials,Gold,0.23478518518518518,0.26707787512104897,"Brookfield Place, TD Canada Trust Tower, Toronto, ON, Canada, M5J 2S1",New York Stock Exchange,BERY,US08579W1036,08579W103,Common Stock,USD
+190664,"Berry Global Group, Inc",Materials,Metal & Glass Containers,0.38765803554862843,,"101 Oakley Street, Evansville, IN, United States, 47710", OTC QX Exchange,BFFAF,,,Common Stock,USD
+191478,BillerudKorsnas AB (publ),Materials,Paper Packaging,0.0,,"PO Box 703, Solna, Sweden, 169 27",New York Stock Exchange,BHP,US0886061086,088606108,Common Stock,USD
+190010,Boise Cascade Company,Materials,Forest Products,0.16248571428571426,,"1111 West Jefferson Street, Boise, ID, United States, 83702", Pink,BHPBF,,,Common Stock,USD
+246271,Boliden AB,Materials,Diversified Metals & Mining,0.3004952380952381,,"Klarabergsviadukten 90, Stockholm, Sweden, 101 20", Pink,BHPLF,,,Common Stock,USD
+206696,Braskem S.A,Materials,Commodity Chemicals,0.2062569071847055,,"Rua Lemos Monteiro, Sao Paulo, SP, Brazil, 05501-050",New York Stock Exchange,BLL,US0584981064,058498106,Common Stock,USD
+190394,Buzzi Unicem S.p.A,Materials,Construction Materials,0.45249999999999996,,"via Luigi Buzzi, 6, Casale Monferrato, AL, Italy, 15033",OTC Grey Market,BLRDF,,,Common Stock,USD
+210355,CCL Industries Inc,Materials,Metal & Glass Containers,0.4197834030683402,0.31686148590200003,"111 Gordon Baker Road, Toronto, ON, Canada, M2H 3R1",OTC Grey Market,BZZFF,,,Common Stock,USD
+191023,"CEMEX, S.A.B. de C.V",Materials,Construction Materials,0.46545450460829485,,"Avenida Ricardo Margain Zozaya 325, San Pedro Garza Garcia, NL, Mexico, 66265", OTC Markets Exchange,BZZUF,,,Common Stock,USD
+190776,"CF Industries Holdings, Inc",Materials,Fertilizers & Agricultural Chemicals,0.37381223680640413,-0.09093730780558727,"4 Parkway North, Deerfield, IL, United States, 60015", Pink,BZZUY,,,Common Stock,USD
+192062,CPMC Holdings Limited,Materials,Metal & Glass Containers,-0.12116315789473686,,"No. 160, Weiken Street, Hangzhou, China",New York Stock Exchange,CBT,US1270551013,127055101,Common Stock,USD
+190787,CRH plc,Materials,Construction Materials,0.15810454545454544,0.03580186383061287,"Stonemason's Way, Dublin, Ireland, 16",OTC Grey Market,CCDBF,,,Common Stock,USD
+244731,CVR Partners LP,Materials,Fertilizers & Agricultural Chemicals,0.4040632620724347,,"2277 Plaza Drive, Sugar Land, TX, United States, 77479",New York Stock Exchange,CCF,US16150R1041,16150R104,Common Stock,USD
+206895,Cabot Corporation,Materials,Commodity Chemicals,0.28880500000000003,,"Two Seaport Lane, Boston, MA, United States, 02210-2019", OTC Markets Exchange,CCLLF,,,Common Stock,USD
+209925,Caledonia Mining Corporation Plc,Materials,Gold,0.4571199999999999,,"Weighbridge House, 3rd Floor
+JE2 3NF,Saint Helier,GBR
+",New York Stock Exchange,CE,US1508701034,150870103,Common Stock,USD
+204101,Carpenter Technology Corporation,Materials,Steel,-0.4327071428571429,,"1735 Market Street, Philadelphia, PA, United States, 19103", NASDAQ Exchnage,CENX,US1564311082,156431108,Common Stock,USD
+190811,Celanese Corporation,Materials,Specialty Chemicals,0.4387541666666668,0.23355876507581821,"222 West Las Colinas Boulevard, Irving, TX, United States, 75039",New York Stock Exchange,CF,US1252691001,125269100,Common Stock,USD
+245970,Cementos Pacasmayo SAA ADR,Materials,Construction Materials,0.0,,"Calle La Colonia 150, Lima, Peru",New York Stock Exchange,CMCL,USG1757E1132,12932K103,Common Stock,USD
+206865,Century Aluminum Company,Materials,Aluminum,0.47785,,"One South Wacker Drive, Chicago, IL, United States, 60606",New York Stock Exchange,CPAC,US15126Q2084,15126Q208,Common Stock,USD
+206914,Chase Corporation,Materials,Specialty Chemicals,0.08088353801169589,,"295 University Avenue, Westwood, MA, United States, 02090",New York Stock Exchange,CRH,US12626K2033,12626K203,Common Stock,USD
+192406,Chiho Environmental Group Limited,Materials,Diversified Metals & Mining,0.0,,"Infinitus Plaza, Central, Hong Kong", Pink,CRHCF,,,Common Stock,USD

@@ -1,0 +1,10 @@
+unique_id,company_name,gicSector,gicSubIndustry,company_pulse,esg_beta,City,State,Country,zip,exchange,symbol,isin,cusip,securities_type,currency_code
+208027,Deltic Timber Corporation,Materials,Forest Products,-0.2732,," PO Box 7200
+71731",El Dorado,"USA
+",,New York Stock Exchange,DD,US26614N1028,263534109,Common Stock,USD
+190049,Domtar Corporation,Materials,Paper Products,0.37527206736353,, Fort Mill, SC, United States, 29715,New York Stock Exchange,DEL,,247850100,Common Stock,USD
+208501,Dongguang Chemical Limited,Materials,Fertilizers & Agricultural Chemicals,0.0,, Cangzhou, China,,,New York Stock Exchange,DOW,US2605571031,260557103,Common Stock,USD
+192088,Dongwu Cement International Limited,Materials,Construction Materials,0.0,, Admiralty, Hong Kong,,, NYSE Market Exchange,EMX,CA26873J1075,26873J107,Common Stock,USD
+191715,Dongyue Group Limited,Materials,Specialty Chemicals,0.0,, Zibo, China,,,New York Stock Exchange,EXP,US26969P1084,15231R109,Common Stock,USD
+190188,Dow Inc,Materials,Commodity Chemicals,0.2970688839361329,0.30085715061178675, Midland, MI, United States, 48674,ESGA Additions,NA,US2478501008,247850100,Private Company,USD
+190884,"DuPont de Nemours, Inc",Materials,Diversified Chemicals,0.2226442474489796,-0.0741792470601458, Wilmington, DE, United States, 19805,New York Stock Exchange,UFS,US2575592033,257559104,Common Stock,USD

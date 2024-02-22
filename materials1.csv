@@ -1,0 +1,29 @@
+unique_id,company_name,gicSector,gicSubIndustry,company_pulse,esg_beta,City,State,Country,zip,exchange,symbol,isin,cusip,securities_type,currency_code
+195610,AMG Advanced Metallurgical Group N.V,Materials,Diversified Metals & Mining,0.3342429052684903,0.09009456486999938, Amsterdam, Netherlands, 1077 XX,,New York Stock Exchange,AA,US0138721065,013872106,Common Stock,USD
+195583,"Acerinox, S.A",Materials,Steel,0.1806,, 100, Madrid, Spain, 28035, OTC QX Exchange,AAUKF,USG037641002,03485P102,Common Stock,USD
+206683,AdvanSix Inc,Materials,Commodity Chemicals,0.6025837398373984,, Parsippany, NJ, United States, 07054,New York Stock Exchange,ACH,US0222761092,022276109,Common Stock,USD
+244892,Advanced Emissions Solutions Inc,Materials,Specialty Chemicals,0.6317531794871796,, Greenwood Village, CO, United States, 80111, NASDAQ Exchnage,ADES,US00770C1018,00770C101,Common Stock,USD
+191126,Agnico Eagle Mines Limited,Materials,Gold,0.307216875,0.14657585638526482, Toronto, ON, Canada, M5C 2Y7,New York Stock Exchange,AEM,US0084741083,008474108,Common Stock,USD
+205266,"AgroFresh Solutions, Inc",Materials,Fertilizers & Agricultural Chemicals,0.214089898989899,, Philadelphia, PA, United States, 19106, NASDAQ Exchnage,AGFS,US00856G1094,00856G109,Common Stock,USD
+191463,"Air Products and Chemicals, Inc",Materials,Industrial Gases,0.3772286458333333,0.013067651689077725, Allentown, PA, United States, 18195, Pink,AHCHF,,035243104,Common Stock,USD
+190847,Albemarle Corporation,Materials,Specialty Chemicals,0.19006636279926348,0.3697596874763796, Charlotte, NC, United States, 28209, Pink,AHCHY,,,Common Stock,USD
+240388,Alcoa Corp,Materials,Aluminum,-0.16770000000000002,, Pittsburgh, PA, United States, 15212-5858, Pink,AHKSF,,043400100,Common Stock,USD
+206491,Allegheny Technologies Incorporated,Materials,Steel,0.7660285714285714,, Pittsburgh, PA, United States, 15222-5479, Pink,AHKSY,,,Common Stock,USD
+193596,Aluminum Corporation of China Limited,Materials,Aluminum,-0.1261,, Beijing, China, 100082,,New York Stock Exchange,ALB,US0126531013,012653101,Common Stock,USD
+207046,Amcor plc,Materials,Metal & Glass Containers,0.2874112641930248,0.2584850240206756, Zurich, Switzerland, 8050,, Pink,ALMMF,,,Common Stock,USD
+206516,American Vanguard Corporation,Materials,Fertilizers & Agricultural Chemicals,0.36646287878787864,, Newport Beach, CA, United States, 92660,New York Stock Exchange,AMCR,JE00BJ1F3079,,Common Stock,USD
+207231,Ampco-Pittsburgh Corporation,Materials,Steel,-0.84195,, Carnegie, PA, United States, 15106, NASDAQ Exchnage,AMRS,US03236M2008,03236M101,Common Stock,USD
+207125,"Amyris, Inc",Materials,Specialty Chemicals,0.33945210906979234,, EmeryVille, CA, United States, 94608, Pink,AMSYF,,,Common Stock,USD
+208670,Angang Steel Company Limited,Materials,Steel,0.0,, Anshan, China, 114021,, Pink,AMVMF,,,Common Stock,USD
+190705,Anglo American plc,Materials,Diversified Metals & Mining,0.31671812865497057,-0.10827257609989231, London, United Kingdom, SW1Y 5AN,, Pink,ANFGF,,,Common Stock,USD
+190172,AngloGold Ashanti Limited,Materials,Gold,-0.20897205882352937,-0.03261757579511178, Johannesburg, South Africa, 2001,, Pink,ANGGF,,,Common Stock,USD
+207785,Anhui Conch Cement Company Limited,Materials,Construction Materials,0.5715,, Wuhu, China, 241000,, Pink,ANIOY,,00444E103,Common Stock,USD
+194753,Antofagasta plc,Materials,Copper,0.05064729729729726,0.012259113907541745, London, United Kingdom, SW1Y 6RJ,,New York Stock Exchange,AP,US0320371034,032037103,Common Stock,USD
+195598,Aperam S.A,Materials,Steel,0.26089999999999997,, rue Guillaume Kroll, Luxembourg City, Luxembourg, 1882,New York Stock Exchange,APD,US0091581068,009158106,Common Stock,USD
+190239,"AptarGroup, Inc",Materials,Metal & Glass Containers,0.44734042207792174,, Crystal Lake, IL, United States, 60014, Pink,APEMY,,,Common Stock,USD
+190627,ArcelorMittal,Materials,Steel,0.18359566653584497,, Boulevard d'Avranches, Luxembourg City, Luxembourg, 1160, OTC Markets Exchange,APMSF,,,Common Stock,USD
+206123,Ardagh Group S.A,Materials,Metal & Glass Containers,0.29278805945290853,, rue Charles Martel, Luxembourg City, Luxembourg, 2134,New York Stock Exchange,ARD,LU1565283667,156528366,Common Stock,USD
+196812,Arkema S.A,Materials,Diversified Chemicals,0.28408071428571424,0.18206219164439497, Colombes, France, 92700,, Pink,ARKAF,,,Common Stock,USD
+201388,Asahi Kasei Corporation,Materials,Commodity Chemicals,0.3724969696969697,-0.11313368273372632, Tokyo, Japan, 100-0006,, Pink,ARKAY,,,Common Stock,USD
+190095,Ashland Global Holdings Inc,Materials,Specialty Chemicals,-0.09077798507462687,, Covington, KY, United States, 41011,New York Stock Exchange,ASH,US0441861046,044186104,Common Stock,USD
+192200,Asia Cement (China) Holdings Corporation,Materials,Construction Materials,0.0,, Yadong Road, Ruichang, China, 332207,New York Stock Exchange,ASIX,US00773T1016,00773T101,Common Stock,USD

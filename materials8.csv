@@ -1,0 +1,8 @@
+unique_id,company_name,gicSector,gicSubIndustry,company_pulse,esg_beta,City,State,Country,zip,exchange,symbol,isin,cusip,securities_type,currency_code
+205427,"Flotek Industries, Inc",Materials,Specialty Chemicals,0.5721261467889913,, Houston, TX, United States, 77064,New York Stock Exchange,FCX,US35671D8570,35671D105,Common Stock,USD
+200206,Formosa Chemicals & Fibre Corporation,Materials,Commodity Chemicals,-0.802,, Changhua, Taiwan, 500,,New York Stock Exchange,FF,US36116M1062,36116M106,Common Stock,USD
+200195,Formosa Plastics Corporation,Materials,Commodity Chemicals,-0.0626576923076923,, Shuiguan Road, Kaohsiung City, Taiwan, 814,New York Stock Exchange,FNV,US3518581059,351858105,Common Stock,USD
+205769,"Forterra, Inc",Materials,Construction Materials,-0.2719,, Irving, TX, United States, 75062,New York Stock Exchange,FRD,US3584351056,358435105,Common Stock,USD
+190203,Franco-Nevada Corporation,Materials,Gold,0.7475999999999999,-0.22931749410299634, Toronto, ON, Canada, M5L 1G9, NASDAQ Exchnage,FRTA,US34960W1062,34960W106,Common Stock,USD
+190692,Freeport-McMoRan Inc,Materials,Copper,-0.0007877551020408157,0.12592496542589685, Phoenix, AZ, United States, 85004,New York Stock Exchange,FTK,US3433891021,343389102,Common Stock,USD
+205736,"Friedman Industries, Incorporated",Materials,Steel,0.0,, Longview, TX, United States, 75601,New York Stock Exchange,GCP,US36164Y1010,36164Y101,Common Stock,USD

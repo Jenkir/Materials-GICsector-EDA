@@ -1,0 +1,11 @@
+unique_id,company_name,gicSector,gicSubIndustry,company_pulse,esg_beta,City,State,Country,zip,exchange,symbol,isin,cusip,securities_type,currency_code
+190075,Clearwater Paper Corporation,Materials,Paper Products,0.31828700564971746,, Spokane, WA, United States, 99201,New York Stock Exchange,BVN,US2044481040,204448104,Common Stock,USD
+204280,Cleveland-Cliffs Inc,Materials,Steel,0.11007333333333334,-0.09159728662076215, Cleveland, OH, United States, 44114,New York Stock Exchange,CDE,US1921085049,192108108,Common Stock,USD
+206823,"Coeur Mining, Inc",Materials,Silver,0.6656500000000001,, Chicago, IL, United States, 60603,New York Stock Exchange,CLF,US1858991011,185896107,Common Stock,USD
+204783,Commercial Metals Company,Materials,Steel,0.6322051369863008,, Irving, TX, United States, 75039,New York Stock Exchange,CLW,US18538R1032,18538R103,Common Stock,USD
+194815,Companhia Siderurgica Nacional,Materials,Steel,0.37542592592592594,, 3400, Itaim Bibi, SP, Brazil,New York Stock Exchange,CMC,US2017231034,201723103,Common Stock,USD
+240133,Compania de Minas Buenaventura SAA ADR,Materials,Gold,0.0,, Lima, Peru, 27,,New York Stock Exchange,CMP,US20451N1019,20451N101,Common Stock,USD
+204576,"Compass Minerals International, Inc",Materials,Diversified Metals & Mining,-0.003314285714285714,, Overland Park, KS, United States, 66210,New York Stock Exchange,CSTM,FR0013467479,F21107101,Common Stock,USD
+207499,Comstock Mining Inc,Materials,Gold,0.8453909090909085,, Virginia City, NV, United States, 89440, NYSE Market Exchange,CTGO,US21077F1003,21077F100,Common Stock,USD
+243492,Constellium Nv,Materials,Aluminum,0.72405,, Paris, France, 75008,,New York Stock Exchange,LODE,US2057501023,205750102,Common Stock,USD
+245197,Contango ORE Inc,Materials,Diversified Metals & Mining,0.0,, Houston, TX, United States, 77098,New York Stock Exchange,SID,US20440W1053,20440W105,Common Stock,USD

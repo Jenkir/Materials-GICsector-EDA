@@ -1,0 +1,11 @@
+unique_id,company_name,gicSector,gicSubIndustry,company_pulse,esg_beta,City,State,Country,zip,exchange,symbol,isin,cusip,securities_type,currency_code
+204550,"Core Molding Technologies, Inc",Materials,Commodity Chemicals,0.14924666666666667,, Columbus, OH, United States, 43228-0183,New York Stock Exchange,CCK,US2283681060,228368106,Common Stock,USD
+205329,"Corteva, Inc",Materials,Fertilizers & Agricultural Chemicals,0.24285027331520806,0.14094775254276207, Wilmington, DE, United States, 19805,New York Stock Exchange,CMT,US2186831002,218683100,Common Stock,USD
+190348,Covestro AG,Materials,Specialty Chemicals,0.373041840277778,0.009090468279564341, Leverkusen, Germany, 51373,, Pink,COIHF,,227047107,Common Stock,USD
+246371,Croda International PLC,Materials,Specialty Chemicals,0.3526666666666667,, Goole, United Kingdom, DN14 9AA,, Pink,COIHY,,,Common Stock,USD
+190777,Croda International Plc,Materials,Specialty Chemicals,0.3049243902439024,0.3570170753033916, Goole, United Kingdom, DN14 9AA,, Pink,COVTY,,22304D207,Common Stock,USD
+190408,"Crown Holdings, Inc",Materials,Metal & Glass Containers,0.3497676462904929,0.023237516941681514, Yardley, PA, United States, 19067,New York Stock Exchange,CTVA,US22052L1044,,Common Stock,USD
+205154,DRDGOLD Limited,Materials,Gold,0.012400000000000022,, Rosebank, South Africa, 2196,, Pink,CVVTF,,,Common Stock,USD
+196389,DS Smith Plc,Materials,Paper Packaging,0.26279690017825286,, London, United Kingdom, NW1 3AX,,OTC Grey Market,DITHF,,,Common Stock,USD
+192249,Da Ming International Holdings Limited,Materials,Steel,0.0,, Tong Jiang Road, Wuxi, China,,New York Stock Exchange,DNMR,US2362721001,NA,Common Stock,USD
+245813,Danimer Scientific Inc,Materials,Specialty Chemicals,-0.2606482891832229,, Bainbridge, GA, United States, 39817,New York Stock Exchange,DRD,US26152H3012,26152H103,Common Stock,USD

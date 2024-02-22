@@ -1,0 +1,11 @@
+unique_id,company_name,gicSector,gicSubIndustry,company_pulse,esg_beta,City,State,Country,zip,exchange,symbol,isin,cusip,securities_type,currency_code
+243688,Hycroft Mining Holding Corporation,Materials,Gold,-0.08954375,, Winnemucca, NV, United States, 89445, NASDAQ Exchnage,HYMC,US44862P1093,NA,Common Stock,USD
+194060,ICL Group Ltd,Materials,Fertilizers & Agricultural Chemicals,0.47390107422969163,, Tel Aviv, Israel, 61070,,New York Stock Exchange,ICL,US4650471083,465036200,Common Stock,USD
+202406,Indorama Ventures Public Company Limited,Materials,Commodity Chemicals,0.36554597701149427,, Ocean Tower 2, Bangkok, Thailand, 10110,New York Stock Exchange,IFF,US4595061015,459506101,Common Stock,USD
+206642,Ingevity Corporation,Materials,Specialty Chemicals,0.4607875724637682,, North Charleston, SC, United States, 29406, Pink,INDOY,,,Common Stock,USD
+206404,Innospec Inc,Materials,Specialty Chemicals,0.8002,, Englewood, CO, United States, 80112, NASDAQ Exchnage,IOSP,US45768S1050,45768S105,Common Stock,USD
+189956,International Flavors & Fragrances Inc,Materials,Specialty Chemicals,0.27933153667213984,0.2323170689898679, New York, NY, United States, 10019,New York Stock Exchange,IP,US4601461035,460146103,Common Stock,USD
+190398,International Paper Company,Materials,Paper Packaging,0.2589560704989651,0.18392503140280428, Memphis, TN, United States, 38197,New York Stock Exchange,IPI,US46121Y2019,46121Y102,Common Stock,USD
+245305,Intrepid Potash Inc,Materials,Fertilizers & Agricultural Chemicals,0.5106,, Denver, CO, United States, 80202, Pink,IRLCF,,,Common Stock,USD
+194047,Israel Corporation Ltd,Materials,Fertilizers & Agricultural Chemicals,0.0,, Tel Aviv, Israel, 61204,, OTC QX Exchange,IVPAF,,,Common Stock,USD
+206013,Ivanhoe Mines Ltd,Materials,Diversified Metals & Mining,0.31721250000000006,, Vancouver, BC, Canada, V6C 3E1,New York Stock Exchange,NGVT,US45688C1071,45688C107,Common Stock,USD

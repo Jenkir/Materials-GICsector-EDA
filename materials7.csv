@@ -1,0 +1,10 @@
+unique_id,company_name,gicSector,gicSubIndustry,company_pulse,esg_beta,City,State,Country,zip,exchange,symbol,isin,cusip,securities_type,currency_code
+190497,Eastman Chemical Company,Materials,Diversified Chemicals,0.255868795620438,-0.12067090144324712, Kingsport, TN, United States, 37662,New York Stock Exchange,ECL,US2788651006,278865100,Common Stock,USD
+193671,EcoGreen International Group Limited,Materials,Specialty Chemicals,0.9042,, Wan Chai, Hong Kong,,,OTC Grey Market,ELKEF,,,Common Stock,USD
+190826,Ecolab Inc,Materials,Specialty Chemicals,0.7131951677489164,0.3098472703250308, Saint Paul, MN, United States, 55102-2233,New York Stock Exchange,EMN,US2774321002,277432100,Common Stock,USD
+204843,Element Solutions Inc,Materials,Specialty Chemicals,0.5393999999999999,, Fort Lauderdale, FL, United States, 33394,New York Stock Exchange,ESI,,28618M106,Common Stock,USD
+196135,Elkem ASA,Materials,Specialty Chemicals,0.5483481981981982,, Oslo, Norway, 0277,,New York Stock Exchange,FMC,US3024913036,302491303,Common Stock,USD
+189874,FMC Corporation,Materials,Fertilizers & Agricultural Chemicals,0.14382557325708006,0.16473070256937536, Philadelphia, PA, United States, 19104,New York Stock Exchange,FOE,US3154051003,315405100,Common Stock,USD
+205849,Ferro Corporation,Materials,Specialty Chemicals,-0.22324251700680275,, Mayfield Heights, OH, United States, 44124, Pink,FQVLF,,,Common Stock,USD
+204125,Ferroglobe PLC,Materials,Diversified Metals & Mining,0.206225,, London, United Kingdom, W1J 6ER,,New York Stock Exchange,FSI,US33938T1043,33938T104,Common Stock,USD
+205748,First Quantum Minerals Ltd,Materials,Copper,0.34359147286821706,-0.01227928237198645, Toronto, ON, Canada, M5H 2S8, NASDAQ Exchnage,GSM,GB00BYW6GV68,G33856108,Common Stock,USD

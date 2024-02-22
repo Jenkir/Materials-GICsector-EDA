@@ -1,0 +1,11 @@
+unique_id,company_name,gicSector,gicSubIndustry,company_pulse,esg_beta,City,State,Country,zip,exchange,symbol,isin,cusip,securities_type,currency_code
+194032,Gaon Group Ltd,Materials,Steel,0.0,, Or Yehuda, Israel, 6039730,,New York Stock Exchange,AUMN,US3811191069,381119106,Common Stock,USD
+204003,"General Moly, Inc",Materials,Diversified Metals & Mining,0.0,, Lakewood, CO, United States, 80401,New York Stock Exchange,GFI,US38059T1060,38059T106,Common Stock,USD
+205495,Gerdau S.A,Materials,Steel,0.20261587301587303,, Sao Paulo, SP, Brazil, 05425-070, Pink,GFIOF,,,Common Stock,USD
+244479,Glatfelter,Materials,Paper Products,0.28861166666666677,, Charlotte, NC, United States, 28209,New York Stock Exchange,GGB,US3737371050,373737105,Common Stock,USD
+190755,Glencore plc,Materials,Diversified Metals & Mining,-0.11519763651181734,0.1779543885285443, Baar, Switzerland, 6341,, Pink,GLCNF,,,Common Stock,USD
+205465,Gold Fields Limited,Materials,Gold,0.08888068181818183,0.2714109670032209, Sandton, South Africa, 2196,, Pink,GLNCY,,37827X100,Common Stock,USD
+204023,Gold Resource Corporation,Materials,Gold,0.3338,, Colorado Springs, CO, United States, 80906,New York Stock Exchange,GLT,US3773201062,377316104,Common Stock,USD
+244581,Gold Royalty Corp,Materials,Precious Metals & Minerals,0.30987631578947367,, Vancouver, BC, Canada, V6E 2Y3,New York Stock Exchange,GMO,,370373102,Common Stock,USD
+206527,Golden Minerals Company,Materials,Precious Metals & Minerals,-0.117225,, Golden, CO, United States, 80401,New York Stock Exchange,GORO,US38068T1051,038068T10,Common Stock,USD
+204130,Golden Star Resources Ltd,Materials,Gold,0.10030196078431375,, Toronto, ON, Canada, M5H 1J9, NYSE Market Exchange,GROY,CA38071H1064,NA,Common Stock,USD

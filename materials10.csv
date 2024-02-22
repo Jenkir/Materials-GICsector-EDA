@@ -1,0 +1,16 @@
+unique_id,company_name,gicSector,gicSubIndustry,company_pulse,esg_beta,City,State,Country,zip,exchange,symbol,isin,cusip,securities_type,currency_code
+191321,Graphic Packaging Holding Company,Materials,Paper Packaging,0.33183794398907096,, Atlanta, GA, United States, 30328,New York Stock Exchange,FUL,US3596941068,359694106,Common Stock,USD
+192379,Greatview Aseptic Packaging Company Limited,Materials,Paper Packaging,0.1367,, Beijing, China, 100015,,New York Stock Exchange,GEF,US3976241071,397624107,Common Stock,USD
+190879,"Greif, Inc",Materials,Metal & Glass Containers,0.49122540160642497,, Delaware, OH, United States, 43015,New York Stock Exchange,GEF-B,,397624206,Common Stock,USD
+194854,"Grupo Simec, S.A.B. de C.V",Materials,Steel,-0.09398500000000001,, Guadalajara, JA, Mexico, 44440,New York Stock Exchange,GEFB,,,Common Stock,USD
+242879,Gulf Resources Inc,Materials,Commodity Chemicals,0.0,, Shouguang, China, 262700,,New York Stock Exchange,GPK,US3886891015,388688103,Common Stock,USD
+205442,H.B. Fuller Company,Materials,Specialty Chemicals,0.34225585585585583,, Saint Paul, MN, United States, 55164, Pink,GRVWF,,,Common Stock,USD
+191486,Harmony Gold Mining Company Limited,Materials,Gold,0.6597,, Randfontein, South Africa, 1759,, NASDAQ Exchnage,GURE,US40251W4087,40251W408,Common Stock,USD
+204452,"Hawkins, Inc",Materials,Commodity Chemicals,0.31307774509803943,, Roseville, MN, United States, 55113, NASDAQ Exchnage,HAYN,US4208772016,420877201,Common Stock,USD
+243641,Haynes International Inc,Materials,Steel,-0.7504500000000001,, Kokomo, IN, United States, 46904, Pink,HGMCF,,,Common Stock,USD
+203858,Hecla Mining Company,Materials,Silver,-0.35404523809523814,, Coeur d'Alene, ID, United States, 83815,New York Stock Exchange,HL,US4227041062,422704106,Common Stock,USD
+193430,Henan Jinma Energy Company Limited,Materials,Steel,0.0,, Jiyuan, China, 459000,,New York Stock Exchange,HMY,US4132163001,413216300,Common Stock,USD
+194064,Hod Assaf Industries Ltd,Materials,Steel,0.0,, Acre, Israel, 24100,, Pink,HOYFF,,,Common Stock,USD
+192232,Huabao International Holdings Limited,Materials,Specialty Chemicals,0.6124,, Wan Chai, Hong Kong,,, Pink,HUABF,,,Common Stock,USD
+196000,Huhtamaki Oyj,Materials,Paper Packaging,0.39124864477394294,, Espoo, Finland, 02100,, Pink,HUIHY,,,Common Stock,USD
+204391,Huntsman Corporation,Materials,Diversified Chemicals,0.27084601990049745,, The Woodlands, TX, United States, 77380,New York Stock Exchange,HUN,US4470111075,447011107,Common Stock,USD
